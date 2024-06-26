@@ -7,11 +7,6 @@ Welcome to my portfolio project! This project showcases my skills and projects u
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Technologies Used](#technologies-used)
-- [License](#license)
-- [Contact](#contact)
 
 ## Introduction
 
